@@ -1,4 +1,7 @@
 BUG,PORT
-imgix3.ruangguru.com
-imgix2.ruangguru.com
-tracker2.ruangguru.com
+imgix3.ruangguru.com,443
+imgix2.ruangguru.com,443
+tracker2.ruangguru.com,443
+imgix3.ruangguru.com,80
+imgix2.ruangguru.com,80
+tracker2.ruangguru.com,80
