@@ -11,7 +11,6 @@ BUG,PORT,GROUP
 23.46.17.8,443,tiktok
 23.35.98.41,443,tiktok
 23.35.98.59,443,tiktok
-23.35.98.41,443,tiktok
 23.35.98.48,443,tiktok
 23.35.98.59,443,tiktok
 23.35.98.64,443,tiktok
@@ -42,7 +41,6 @@ BUG,PORT,GROUP
 23.46.17.8,80,tiktok
 23.35.98.41,80,tiktok
 23.35.98.59,80,tiktok
-23.35.98.41,80,tiktok
 23.35.98.48,80,tiktok
 23.35.98.59,80,tiktok
 23.35.98.64,80,tiktok
